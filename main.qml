@@ -16,12 +16,12 @@ Window {
         color: "#2a2a2a"
     }
 
-    Rectangle {
-        anchors.centerIn: parent
-        height: WINDOW_HEIGHT
-        width: ITEM_WIDTH + ITEM_SPACING
-        color: "#123789"
-    }
+//    Rectangle {
+//        anchors.centerIn: parent
+//        height: WINDOW_HEIGHT
+//        width: ITEM_WIDTH + ITEM_SPACING
+//        color: "#123789"
+//    }
 
     KWQList {
         anchors.centerIn: parent
